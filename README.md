@@ -123,7 +123,7 @@ advertising, in-app purchases, or any user-generated content.
 
 ## 8. Contact
 
-For privacy questions, contact: **privacy@catverse.example**
+For privacy questions, contact: **sourceinformofrevolution@gmail.com**
 (replace with your verified seller contact before submission).
 
 For questions specific to BrightSDK bandwidth sharing, see
